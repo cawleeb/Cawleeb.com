@@ -1,1 +1,1 @@
-<!-- <a href="Thoughts and prayers/Snow Nav101.0 Safety in Snowy Mountain Terrain.md">Snow Nav101.0</a> -->
+<a href="Thoughts and prayers/Snow Nav101.0 Safety in Snowy Mountain Terrain.md">Snow Nav101.0</a>
