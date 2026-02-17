@@ -34,6 +34,9 @@ This content is not affiliated with any formal educational provider. The author 
 
 More detailed examples and step-by-step screenshots can be added here.
 
-## Full intro {#full-intro}
-
-Replace this paragraph with a fuller introductory section describing objectives, scope, and intended audience.
+## Hazard type
+In addition to the many potentially precarious ways that trees, roots and rocks can be rearranged, there are a couple .
+  ### Terrain traps:
+  Convex features like bowls or chutes that will tend to funnel in mobile snow to a disproportionately deep level
+  ### Tree wells:
+  
